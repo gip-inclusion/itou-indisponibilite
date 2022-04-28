@@ -1,0 +1,10 @@
+{
+  "name" : "itou-unavailable",
+  "version" : "1.0.0",
+  "dependencies" : {
+    "express" : "4.x"
+  },
+  "scripts" : {
+    "start": "node server.js"
+  }
+}
